@@ -52,7 +52,7 @@
 ## 1. Insights:
   ![image](https://github.com/user-attachments/assets/edb83963-d084-4579-be2b-a2e9afc6e154)
 ## 2. Recommendations:
-  ![image](https://github.com/user-attachments/assets/7e20e62b-34df-4c35-b165-dcbc11b5350c)
+  ![image](https://github.com/user-attachments/assets/75a863f3-ccc7-4deb-b9d8-f538f21192a4)
 
 
 
